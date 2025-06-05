@@ -59,19 +59,3 @@ Whether you're working with academic papers, business reports, or structured dat
 - Quick extraction of key insights from web sources
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8 or higher
-- `streamlit`, `openai` (or other AI SDK), `pandas`, `PyMuPDF`, etc.
-- An API key (if using an external AI model)
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/equitytool.git
-cd equitytool
-pip install -r requirements.txt
-
